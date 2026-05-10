@@ -74,25 +74,25 @@ The dashboard was designed using a business-first approach with emphasis on:
 # 📸 Dashboard Preview
 
 ## Landing Page
-![Landing Page](screenshots/landing-page.png)
+![Landing Page](screenshots/home.png)
 
 ## Executive Overview
-![Executive Overview](screenshots/executive-overview.png)
+![Executive Overview](screenshots/overview.png)
 
 ## Inventory Health
-![Inventory Health](screenshots/inventory-health.png)
+![Inventory Health](screenshots/InventoryHealth.png)
 
 ## Sales & Demand
-![Sales & Demand](screenshots/sales-demand.png)
+![Sales & Demand](screenshots/Sales&Demand.png)
 
 ## Stock Movements
-![Stock Movements](screenshots/stock-movements.png)
+![Stock Movements](screenshots/StockMovements.png)
 
 ## Purchasing & Supplier Performance
-![Purchasing & Supplier Performance](screenshots/purchasing-suppliers.png)
+![Purchasing & Supplier Performance](screenshots/Purchasing&suppliersPerformance.png)
 
 ## Returns Analysis
-![Returns Analysis](screenshots/returns-analysis.png)
+![Returns Analysis](screenshots/ReturnsAnalysis.png)
 
 ## Data Model
 ![Data Model](screenshots/data-model.png)
