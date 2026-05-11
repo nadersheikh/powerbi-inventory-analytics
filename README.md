@@ -5,7 +5,7 @@ Enterprise-style inventory and operational analytics solution designed to monito
 # 🔗 Live Dashboard
 
 👉 View Interactive Power BI Dashboard:
-https://app.powerbi.com/view?r=eyJrIjoiMmFiMzMyMTAtNWZmYi00Zjg3LWI2MDctMDg0YWZiMjYzMGQzIiwidCI6IjQ2MWNiNDRiLWQ4MTEtNGEzYi05OWZmLWM4YTU3N2QzNDI1MiJ9
+https://app.powerbi.com/view?r=eyJrIjoiOGNlYWNlZGEtMmZhOC00YTZkLWFmNjItNWRhODVhMmJlZWJlIiwidCI6IjQ2MWNiNDRiLWQ4MTEtNGEzYi05OWZmLWM4YTU3N2QzNDI1MiJ9
 
 ---
 
